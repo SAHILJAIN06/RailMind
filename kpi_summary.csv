@@ -1,9 +1,9 @@
 KPI,Value
-Average Delay (min),5.333333333333333
-Maximum Delay (min),26.0
-Track A Utilization (%),37.5
+Average Delay (min),5.566666666666666
+Maximum Delay (min),29.0
+Track A Utilization (%),38.46153846153847
 Track B Utilization (%),39.42307692307692
-Track C Utilization (%),38.46153846153847
-Track D Utilization (%),38.46153846153847
-Track E Utilization (%),40.38461538461539
-Track Loop Utilization (%),35.57692307692308
+Track C Utilization (%),36.53846153846153
+Track D Utilization (%),44.230769230769226
+Track E Utilization (%),39.42307692307692
+Track Loop Utilization (%),31.73076923076923
